@@ -1,3 +1,3 @@
 // write your code below!
-#prints "Hello, world!"
+#prints statement 
 console.log("Hello, World!")
